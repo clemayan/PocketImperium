@@ -1,20 +1,25 @@
-# PocketImperium
+# PocketImperium 🚀
 
+## Description 📌
 Ce projet a été réalisé dans le cadre de l'UE LO02 à l'Université de Technologie de Troyes.
 Pocket Imperium est un jeu de société de conquête spatiale, qui mélange des éléments de stratégie, d’attaques et d'exploration. Il est conçu pour 3 joueurs, où chacun d’eux cherche à protéger ses groupements de vaisseaux en cherchant à étendre son pouvoir.
 
-## Lancer le jeu :
+## Lancer le jeu 🏁 :
 La classe à lancer pour le programme est la classe Partie
 
-## Maya Mazuet et Aurélien Musset
-- Maya Mazuet (@clemayan) et Aurélien Musset 
-
-## Organisation du projet :
+## Organisation du projet 🎯 :
 - Dossier src : classes en .java
 - Dossier bin : classes compilées en .class
 - Dossier AUTRES RESSOURCES : Ensembles des assets dont a besoin le projet pour fonctionner (à ne pas changer de place)
 
-## État actuel du projet :
+## Technologies utilisées 🛠
+Java : Moteur du jeu
+
+## Auteurs 👥
+Mazuet Maya
+Musset Aurélien
+
+## État actuel du projet ✨:
 ### Ce qui a été implémenté et qui fonctionne :
 - Interface graphique pour la majorité de l’application
     L’exploration et l’attaque se font par ligne de commande une fois le premier hexagone sélectionné par interface. (une explication de comment repérer les zones est disponible dans le fichier implementation_map.pdf du dossier doc)
@@ -33,3 +38,9 @@ La classe à lancer pour le programme est la classe Partie
 ### Ce qui reste bogué :
 - L’exploration, si on décide de déplacer plusieurs vaisseaux
 - L’attaque peut être bogué
+
+## 📜 Licence  
+Ce projet est protégé par des droits d’auteur. Toute utilisation, modification, reproduction ou distribution sans autorisation est interdite.  
+
+🔗 Consultez le fichier [LICENCE.txt](LICENCE.txt) pour plus de détails.  
+
