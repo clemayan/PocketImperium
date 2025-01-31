@@ -4,6 +4,8 @@
 Ce projet a été réalisé dans le cadre de l'UE LO02 à l'Université de Technologie de Troyes.
 Pocket Imperium est un jeu de société de conquête spatiale, qui mélange des éléments de stratégie, d’attaques et d'exploration. Il est conçu pour 3 joueurs, où chacun d’eux cherche à protéger ses groupements de vaisseaux en cherchant à étendre son pouvoir.
 
+Une implémentation garphique permet au joueur de joueur plus facilement au jeu.
+
 ## Lancer le jeu 🏁 :
 La classe à lancer pour le programme est la classe Partie
 
